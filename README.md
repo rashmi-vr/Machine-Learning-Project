@@ -1,0 +1,1 @@
+This project presents multiple machine-learning approaches to predict whether future outlets of a chain store will perform well or poorly by analysing key performance factors. A proposal is designed to assist the organisation in making data-driven decisions to optimise and strategize the performance of existing and upcoming stores.
